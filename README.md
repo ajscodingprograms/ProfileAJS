@@ -84,9 +84,7 @@
 # 📊 Certifications
 
 - **Udemy — The Complete Python Bootcamp: From Zero to Hero in Python**
-- **Fortinet — Network Security Expert (NSE) Level 1: Certified Associate**
-- **Fortinet — Network Security Expert (NSE) Level 2: Certified Associate**
-- **Fortinet — Network Security Expert (NSE) Level 3: Certified Associate**
+- **Google — Google Project Management Certificate (In Progress)**
 
 
 ---
